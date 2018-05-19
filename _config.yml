@@ -21,9 +21,13 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'HOME', link: '/'}
+  - {name: 'ABOUT', link: '/about'}
+  - {name: 'CS', link: '/cs'}
+  - {name: 'GOURMET', link: '/gourmet'}
+  - {name: 'TRAVEL', link: '/travel'}
+  - {name: 'GALLERY', link: '/gallery'}
+  - {name: 'CONTACT', link: '/contact'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
