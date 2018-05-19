@@ -6,9 +6,9 @@ permalink: /about/
 
 # Education
 
-#####**KAIST, Daejeon, Korea**
-#####B.S., School of Computing (Mar 2015 - Present)
-#####Minor: Mechanical Engineering
+##### **KAIST, Daejeon, Korea**
+##### B.S., School of Computing (Mar 2015 - Present)
+##### Minor: Mechanical Engineering
 
 **DTU, Lyngby, Denmark**
 
