@@ -6,14 +6,10 @@ permalink: /about/
 
 # Education
 
-**KAIST, Daejeon, Korea**
-
-B.S., School of Computing (Mar 2015 - Present)
+**B.S., School of Computing, KAIST (Mar 2015 - Present)**
 
 Minor: Mechanical Engineering
 
-**DTU, Lyngby, Denmark**
+**Exchange student, DTU (Jan 2018 - May 2018)**
 
-Exchange student (Spring 2018)
-
-**Busanil Science High School (BSIS)**
+**Busanil Science High School (Mar 2013 - Feb 2015) **
