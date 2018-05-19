@@ -1,5 +1,5 @@
 ---
 layout: page
-title: GOURMET
+title: Gourmet
 permalink: /gourmet/
 ---

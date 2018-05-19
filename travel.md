@@ -1,5 +1,5 @@
 ---
 layout: page
-title: GALLERY
-permalink: /gallery/
+title: Travel
+permalink: /travel/
 ---
